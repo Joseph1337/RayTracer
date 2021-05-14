@@ -8,4 +8,6 @@
 - Jittered sampling option for smoother and more gradual soft shadows
 
 ### Screenshots:
-![](https://github.com/Joseph1337/RayTracer/blob/main/img1.jpg?raw=true)
+![](docs/img1.jpg)
+![](docs/img2.jpg)
+![](docs/img3.jpg)
