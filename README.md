@@ -8,7 +8,7 @@
 - Jittered sampling option for smoother and more gradual soft shadows
 
 ### Screenshots:
-![](docs/img1.jpg)
-![](docs/img2.jpg)
-![](docs/img3.jpg)
-![](docs/img4.jpg)
+![](docs/img1.jpg){:height="500px" width="500px"}
+![](docs/img2.jpg){:height="500px" width="500px"}
+![](docs/img3.jpg){:height="500px" width="500px"}
+![](docs/img4.jpg){:height="500px" width="500px"}
